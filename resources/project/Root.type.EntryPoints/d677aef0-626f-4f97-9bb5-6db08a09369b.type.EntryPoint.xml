@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="script/dummyinput.m" Name="dummyinput">
+    <Extension Value="fdb49a85-6662-4c48-9b65-20b3a37431e6" Name="StartUpPrev" />
+</Info>
